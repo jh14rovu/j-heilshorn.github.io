@@ -1,2 +1,3 @@
 name: Jannik Heilshorn, An Amazing Dominion Player
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
